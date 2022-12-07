@@ -18,6 +18,7 @@ Using the following wireframes, build an experiment module interface. Using your
 <img src="Export Module Add IM.png" alt="Experimental Module Panel"/>
 
 ### Iteration Module
+<img src="Iteration Module.png" alt="Iteration Module"/>
 
 ## Instructions
 How to attempt this challenge:
